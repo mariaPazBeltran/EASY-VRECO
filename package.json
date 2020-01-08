@@ -1,0 +1,22 @@
+{
+  "name": "easy-vreco",
+  "version": "1.0.0",
+  "description": "jugando con geolocalización",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaPazBeltran/EASY-VRECO.git"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Mary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaPazBeltran/EASY-VRECO/issues"
+  },
+  "homepage": "https://github.com/mariaPazBeltran/EASY-VRECO#readme"
+}
