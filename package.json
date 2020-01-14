@@ -19,7 +19,5 @@
     "url": "https://github.com/mariaPazBeltran/EASY-VRECO/issues"
   },
   "homepage": "https://github.com/mariaPazBeltran/EASY-VRECO#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "dependencies": {}
 }
